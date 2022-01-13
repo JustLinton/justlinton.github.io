@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://test.cupof.beer/sitemap.xml
