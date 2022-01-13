@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Just Linton`s Hub</title>
-    <link>http://test.cupof.beer/tags/</link>
-    <description>Recent content in Tags on Just Linton`s Hub</description>
+    <title>Tags on Hugo Winston</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Hugo Winston</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <copyright>Copy, _right?_ :thinking_face:</copyright><atom:link href="http://test.cupof.beer/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
